@@ -13,6 +13,12 @@ It analyzes features like income, loan amount, credit history, and other financi
 ✅ Exploratory Data Analysis (EDA) with visualizations 📊  
 ✅ Feature scaling and encoding 🔄  
 ✅ Model training using SVM (Support Vector Machine)  
-✅ Evaluation using accuracy, precision, recall, and confusion matrix 📈  
+✅ Evaluation using accuracy  
+
+---
+##  Results  
+- Performance was evaluated using:  
+   ✅ Accuracy score
+- for the **model** Prediction .  
 
 ---
