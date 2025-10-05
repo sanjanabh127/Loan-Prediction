@@ -10,8 +10,8 @@ It analyzes features like income, loan amount, credit history, and other financi
 
 ##  Features
 ✅ Cleaned and preprocessed loan dataset  
-✅ Exploratory Data Analysis (EDA) with visualizations 📊  
-✅ Feature scaling and encoding 🔄  
+✅ Exploratory Data Analysis (EDA) with visualizations 
+✅ Feature scaling and encoding 
 ✅ Model training using SVM (Support Vector Machine)  
 ✅ Evaluation using accuracy  
 
